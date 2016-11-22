@@ -476,6 +476,9 @@ h6,
 #msg-box3-1 p {
   color: #000;
 }
+#msg-box3-1 .mbr-section-title {
+  font-size: 36px;
+}
 #ext_menu-2 .hide-buttons .nav-btn {
   display: none !important;
 }

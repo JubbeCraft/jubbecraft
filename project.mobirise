@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "JubbeCraft",
-    "currentPage": "etusivu.html",
+    "currentPage": "osta.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -130,6 +130,9 @@
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#000"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_tags": [
