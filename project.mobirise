@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "JubbeCraft",
-    "currentPage": "osta.html",
+    "currentPage": "etusivu.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -160,7 +160,7 @@
             "showButton": true
           },
           "title": "JUBBECRAFT",
-          "text": "<p>Suomalainen serveri! Server sisältää Survivalin, Pvpeen ja Skyblockin mutta lisää peli muotoja on kyllä tulossa! Serverille voit ostaa myös vipin! Vippejä voit erikseen tarkastella erilliseltä sivulta jonne pääset painamalla tuota nappia!</p>",
+          "text": "<p>Suomalainen serveri! Server sisältää Survivalin, Pvpeen ja Skyblockin mutta lisää pelimuotoja on kyllä tulossa! Serverille voit ostaa myös vipin! Vippejä voit erikseen tarkastella erilliseltä sivulta jonne pääset painamalla tuota nappia!</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"vipit.html\" data-toolbar=\"-mbrBtnMove\">VIPIT</a>"
         }
       ]
