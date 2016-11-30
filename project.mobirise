@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 7,
+    "uniqCompNum": 8,
     "versionPublish": "3.9.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -162,6 +162,19 @@
           "title": "JUBBECRAFT",
           "text": "<p>Suomalainen serveri! Server sisältää Survivalin, Pvpeen ja Skyblockin mutta lisää pelimuotoja on kyllä tulossa! Serverille voit ostaa myös vipin! Vippejä voit erikseen tarkastella erilliseltä sivulta jonne pääset painamalla tuota nappia!</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"vipit.html\" data-toolbar=\"-mbrBtnMove\">VIPIT</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-7",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"http://minecraft-mp.com/server/140262/vote/\" data-toolbar=\"-mbrBtnMove\">ÄÄNESTÄ!</a> "
         }
       ]
     },
